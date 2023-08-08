@@ -1,0 +1,17 @@
+# ignore ALL image files
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.webp
+*.WEBP
+
+# Ignore python venv
+venv/
+
+# Ignore pycache
+*.pyc
+
+# Ignore data files
+*.db
+*.csv
